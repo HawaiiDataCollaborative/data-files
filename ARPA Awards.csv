@@ -1,61 +1,60 @@
 ﻿Name,Parent,Value
-City & County of Honolulu,Origin,"$189,010,000.00 "
-City & County of Honolulu,Origin,"$206,490,000.00 "
-COVID,Origin,"$13,886,764.00 "
-COVID,Origin,"$18,947,341.00 "
-COVID,Origin,"$31,969,250.00 "
-Education,Origin,"$2,306,567.00 "
-Education,Origin,"$528,000.00 "
-Education,Origin,"$1,223,000.00 "
-Education,Origin,"$8,727,000.00 "
-Education,Origin,"$412,328,764.00 "
-Education,Origin,"$100,086,000.00 "
-Education,Origin,"$11,490,000.00 "
-Education,Origin,"$454,000.00 "
-Education,Origin,"$4,264,537.00 "
-Families & Community,Origin,"$1,179,000.00 "
-Families & Community,Origin,"$448,000.00 "
-Families & Community,Origin,"$49,850,222.00 "
-Families & Community,Origin,"$2,202,000.00 "
-Families & Community,Origin,"$3,462,000.00 "
-Families & Community,Origin,"$79,891,531.00 "
-Families & Community,Origin,"$2,288,500.00 "
-Families & Community,Origin,"$721,375.00 "
-Families & Community,Origin,"$49,750.00 "
-Families & Community,Origin,"$218,900.00 "
-Families & Community,Origin,"$2,238,750.00 "
-Families & Community,Origin,"1,492,500.00"
-Families & Community,Origin,"$838,260.00 "
-Families & Community,Origin,"$334,763.00 "
-Food & Shelter,Origin,"$4,995,879.00 "
-Food & Shelter,Origin,"$1,049,000.00 "
-Food & Shelter,Origin,"$11,120,347.00 "
-Food & Shelter,Origin,"$6,413,733.00 "
-Food & Shelter,Origin,"$152,000,000.00 "
-Food & Shelter,Origin,"$2,165,000.00 "
-Food & Shelter,Origin,"$50,000,000.00 "
-Food & Shelter,Origin,"$95,184,413.30 "
-Food & Shelter,Origin,"$5,846,541.00 "
-Food & Shelter ,Origin,"$50,000,000.00 "
-Health & Human Services,Origin,"$1,677,852.00 "
-Health & Human Services,Origin,"$4,216,684.00 "
-Health & Human Services,Origin,"$7,620,471.00 "
-Health & Human Services,Origin,"$7,174,398.00 "
-Individuals,Origin,"$1,660,746,000.00 "
-Individuals,Origin,"$4,216,683.83 "
-Neighbor Island Counties,Origin,"$32,470,000.00 "
-Neighbor Island Counties,Origin,"$14,020,000.00 "
-Neighbor Island Counties,Origin,"$39,080,000.00 "
-Neighbor Island Counties,Origin,"$20,000.00 "
-State/Local Government,Origin,"$115,327,544.00 "
-State/Local Government,Origin,"$43,100,000.00 "
-State/Local Government,Origin,"$1,641,602,610.00 "
-State/Local Government,Origin,"$769,500.00 "
-State/Local Government,Origin,"$1,003,000.00 "
-State/Local Government,Origin,"$275,000.00 "
-State/Local Government,Origin,"$2,307,000.00 "
-Transportation,Origin,"$169,361,991.00 "
-Transportation,Origin,"$4,751,955.00 "
-Transportation,Origin,"$222,196.00 "
-Transportation,Origin,"$406,569.00 "
-,,
+City & County of Honolulu,Origin,189010000
+City & County of Honolulu,Origin,206490000
+COVID,Origin,13886764
+COVID,Origin,18947341
+COVID,Origin,31969250
+Education,Origin,2306567
+Education,Origin,528000
+Education,Origin,1223000
+Education,Origin,8727000
+Education,Origin,412328764
+Education,Origin,100086000
+Education,Origin,11490000
+Education,Origin,454000
+Education,Origin,4264537
+Families & Community,Origin,1179000
+Families & Community,Origin,448000
+Families & Community,Origin,49850222
+Families & Community,Origin,2202000
+Families & Community,Origin,3462000
+Families & Community,Origin,79891531
+Families & Community,Origin,2288500
+Families & Community,Origin,721375
+Families & Community,Origin,49750
+Families & Community,Origin,218900
+Families & Community,Origin,2238750
+Families & Community,Origin,1492500
+Families & Community,Origin,838260
+Families & Community,Origin,334763
+Food & Shelter,Origin,4995879
+Food & Shelter,Origin,1049000
+Food & Shelter,Origin,11120347
+Food & Shelter,Origin,6413733
+Food & Shelter,Origin,152000000
+Food & Shelter,Origin,2165000
+Food & Shelter,Origin,50000000
+Food & Shelter,Origin,95184413
+Food & Shelter,Origin,5846541
+Food & Shelter ,Origin,50000000
+Health & Human Services,Origin,1677852
+Health & Human Services,Origin,4216684
+Health & Human Services,Origin,7620471
+Health & Human Services,Origin,7174398
+Individuals,Origin,1660746000
+Individuals,Origin,4216684
+Neighbor Island Counties,Origin,32470000
+Neighbor Island Counties,Origin,14020000
+Neighbor Island Counties,Origin,39080000
+Neighbor Island Counties,Origin,20000
+State/Local Government,Origin,115327544
+State/Local Government,Origin,43100000
+State/Local Government,Origin,1641602610
+State/Local Government,Origin,769500
+State/Local Government,Origin,1003000
+State/Local Government,Origin,275000
+State/Local Government,Origin,2307000
+Transportation,Origin,169361991
+Transportation,Origin,4751955
+Transportation,Origin,222196
+Transportation,Origin,406569
